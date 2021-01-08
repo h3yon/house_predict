@@ -8,7 +8,7 @@ ipynb: <br>
  (2)https://github.com/isheunesutembo/Predicting-House-Prices-Using-Random-Forest-Flask-Web-Application <br>
 template: https://mdbootstrap.com/freebies/jquery/full-page-video-carousel/ <br>
 <br>
-<img src="screenshot2.png" width="90%"></img>
+<img src="screenshot2.png" width="60%"></img>
 <br>
 <h2>- How to Use</h2>
 <br>
